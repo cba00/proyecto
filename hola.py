@@ -1,1 +1,1 @@
-print("hola socio")
+print("hola socio tus muertos")
